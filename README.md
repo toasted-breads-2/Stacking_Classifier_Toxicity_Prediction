@@ -2,6 +2,8 @@
 
 This repository contains a machine learning pipeline to predict the toxicity of molecules using RDKit-generated molecular descriptors and ensemble classification techniques. The pipeline was designed to work with large-scale chemical datasets and demonstrates robust performance when validated on FDA-approved drug molecules.
 
+Link to the website : https://toxicity-prediction.streamlit.app/
+
 
 ## 📌 Problem Statement
 
