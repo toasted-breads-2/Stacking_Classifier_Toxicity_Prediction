@@ -62,5 +62,8 @@ Predict molecular toxicity using structural and physicochemical properties deriv
 
 
 
-## 📁 Repository Structure
+## 👤 Author
+Shireen Shaikh
+BITS Pilani – M.Sc. Biological Sciences, B.E. Mechanical Engineering
+Minor in Data Science
 
