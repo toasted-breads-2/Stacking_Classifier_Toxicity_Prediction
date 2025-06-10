@@ -44,6 +44,9 @@ Predict molecular toxicity using structural and physicochemical properties deriv
   - **Meta learner:** Logistic Regression
 
 ### 5. Evaluation
+
+- ![image](https://github.com/user-attachments/assets/282d94d4-12b9-4119-b41d-67d84afc29f1)
+
 - **Training accuracy:** 94%
 - **Validation on FDA dataset:** 91%
 
